@@ -13,3 +13,5 @@ Currently in the ideation phase, this project is focused on concept development 
 * Complete character movement
 ## Getting Involved
 * This project is in its early stages. Contributions, ideas, and feedback are welcome as we explore the potential of this concept!
+## Technologies
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
