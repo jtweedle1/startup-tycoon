@@ -15,3 +15,4 @@ Currently in the ideation phase, this project is focused on concept development 
 * This project is in its early stages. Contributions, ideas, and feedback are welcome as we explore the potential of this concept!
 ## Technologies
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
