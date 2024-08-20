@@ -2377,7 +2377,7 @@ GameObject:
   - component: {fileID: 9081974081313071417}
   - component: {fileID: 3891508934727336120}
   m_Layer: 0
-  m_Name: Office
+  m_Name: Office Walls & Floor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

@@ -14,7 +14,7 @@ Currently in the ideation phase, this project is focused on concept development 
 ## Timeline
 * 8/16/24: Come up with project idea, complete initial project setup in GitHub and Unity
 * 8/17/24: Create idle and walk sprite animations
-* 8/20/24: Character movement (forward only), created initial room scene
+* 8/20/24: Character movement with animation (forward only), created initial room scene, added office items
 ## Getting Involved
 * This project is in its early stages. Contributions, ideas, and feedback are welcome as I explore the potential of this concept!
 ## Technologies
