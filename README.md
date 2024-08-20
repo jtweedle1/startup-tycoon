@@ -11,6 +11,9 @@ Currently in the ideation phase, this project is focused on concept development 
 ## Current Goals
 * Set up development environment
 * Complete character movement
+## Timeline
+* 8/16/24: Come up with project idea, complete initial project setup in GitHub and Unity
+* 8/17/24: Create idle and walk sprite animations
 ## Getting Involved
 * This project is in its early stages. Contributions, ideas, and feedback are welcome as we explore the potential of this concept!
 ## Technologies
