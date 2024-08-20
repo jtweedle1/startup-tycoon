@@ -14,10 +14,13 @@ Currently in the ideation phase, this project is focused on concept development 
 ## Timeline
 * 8/16/24: Come up with project idea, complete initial project setup in GitHub and Unity
 * 8/17/24: Create idle and walk sprite animations
+* 8/20/24: Character movement (forward only), created initial room scene
 ## Getting Involved
-* This project is in its early stages. Contributions, ideas, and feedback are welcome as we explore the potential of this concept!
+* This project is in its early stages. Contributions, ideas, and feedback are welcome as I explore the potential of this concept!
 ## Technologies
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+## Credits
+![LimeZu on itch.io](https://limezu.itch.io/) - Assets (Characters, Rooms, Background, UI, etc.)
