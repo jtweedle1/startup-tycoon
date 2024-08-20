@@ -77,4 +77,9 @@ public class PlayerMovement : MonoBehaviour
         // movement * moveSpeed * Time.fixedDeltaTime ensures movement is frame-rate independent
         rb.MovePosition(rb.position + movement * moveSpeed * Time.fixedDeltaTime);
     }
+
+    void OnCollisionEnter2D(Collision2D collision)
+    {
+        Debug.Log("Collided with: " + collision.gameObject.name);
+    }
 }
