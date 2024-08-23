@@ -1,6 +1,6 @@
 using UnityEngine;
 
-// This script auto-aligns the camera at all times.
+// This script auto-aligns the camera at all times
 public class CameraGridAlign : MonoBehaviour
 {
     public float gridSize = 1.0f;

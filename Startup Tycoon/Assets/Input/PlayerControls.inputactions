@@ -15,9 +15,9 @@
                     "initialStateCheck": true
                 },
                 {
-                    "name": "Look",
+                    "name": "Sprint",
                     "type": "Button",
-                    "id": "f03485df-b141-4824-94c4-22053e6d9ee6",
+                    "id": "14a22727-0a60-41f3-92da-bedab1f7b86a",
                     "expectedControlType": "Button",
                     "processors": "",
                     "interactions": "",
@@ -123,6 +123,17 @@
                     "action": "Move",
                     "isComposite": false,
                     "isPartOfComposite": true
+                },
+                {
+                    "name": "",
+                    "id": "56db6d0f-6d6b-4209-ace5-313a386cd545",
+                    "path": "<Keyboard>/shift",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Sprint",
+                    "isComposite": false,
+                    "isPartOfComposite": false
                 }
             ]
         }
