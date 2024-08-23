@@ -13,8 +13,8 @@ TagManager:
   - UI
   - Background
   - Obstacles
+  - Interactables
   - Player
-  - 
   - 
   - 
   - 
@@ -46,6 +46,9 @@ TagManager:
     locked: 0
   - name: Obstacles
     uniqueID: 154783473
+    locked: 0
+  - name: Interactables
+    uniqueID: 3615375135
     locked: 0
   - name: Player
     uniqueID: 2410604059
