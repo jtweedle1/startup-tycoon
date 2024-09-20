@@ -22,6 +22,18 @@
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
+<<<<<<< HEAD
+                },
+                {
+                    "name": "Interact",
+                    "type": "Button",
+                    "id": "159b70f3-d716-46de-9201-e3ac6f69809d",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+=======
+>>>>>>> eef9c3b7cf32bc38037a4e83142bf31a797cf0f0
                 }
             ],
             "bindings": [
@@ -134,6 +146,20 @@
                     "action": "Sprint",
                     "isComposite": false,
                     "isPartOfComposite": false
+<<<<<<< HEAD
+                },
+                {
+                    "name": "",
+                    "id": "8afe9e67-b360-43f9-acbd-1ada6941c07a",
+                    "path": "<Keyboard>/e",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Interact",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+=======
+>>>>>>> eef9c3b7cf32bc38037a4e83142bf31a797cf0f0
                 }
             ]
         }
