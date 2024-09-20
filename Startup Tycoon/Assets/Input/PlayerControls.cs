@@ -44,6 +44,7 @@ public partial class @PlayerControls: IInputActionCollection2, IDisposable
                     ""processors"": """",
                     ""interactions"": """",
                     ""initialStateCheck"": false
+<<<<<<< HEAD
                 },
                 {
                     ""name"": ""Interact"",
@@ -53,6 +54,8 @@ public partial class @PlayerControls: IInputActionCollection2, IDisposable
                     ""processors"": """",
                     ""interactions"": """",
                     ""initialStateCheck"": false
+=======
+>>>>>>> eef9c3b7cf32bc38037a4e83142bf31a797cf0f0
                 }
             ],
             ""bindings"": [
@@ -165,6 +168,7 @@ public partial class @PlayerControls: IInputActionCollection2, IDisposable
                     ""action"": ""Sprint"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
+<<<<<<< HEAD
                 },
                 {
                     ""name"": """",
@@ -176,6 +180,8 @@ public partial class @PlayerControls: IInputActionCollection2, IDisposable
                     ""action"": ""Interact"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
+=======
+>>>>>>> eef9c3b7cf32bc38037a4e83142bf31a797cf0f0
                 }
             ]
         }
@@ -186,7 +192,10 @@ public partial class @PlayerControls: IInputActionCollection2, IDisposable
         m_Player = asset.FindActionMap("Player", throwIfNotFound: true);
         m_Player_Move = m_Player.FindAction("Move", throwIfNotFound: true);
         m_Player_Sprint = m_Player.FindAction("Sprint", throwIfNotFound: true);
+<<<<<<< HEAD
         m_Player_Interact = m_Player.FindAction("Interact", throwIfNotFound: true);
+=======
+>>>>>>> eef9c3b7cf32bc38037a4e83142bf31a797cf0f0
     }
 
     public void Dispose()
@@ -250,14 +259,20 @@ public partial class @PlayerControls: IInputActionCollection2, IDisposable
     private List<IPlayerActions> m_PlayerActionsCallbackInterfaces = new List<IPlayerActions>();
     private readonly InputAction m_Player_Move;
     private readonly InputAction m_Player_Sprint;
+<<<<<<< HEAD
     private readonly InputAction m_Player_Interact;
+=======
+>>>>>>> eef9c3b7cf32bc38037a4e83142bf31a797cf0f0
     public struct PlayerActions
     {
         private @PlayerControls m_Wrapper;
         public PlayerActions(@PlayerControls wrapper) { m_Wrapper = wrapper; }
         public InputAction @Move => m_Wrapper.m_Player_Move;
         public InputAction @Sprint => m_Wrapper.m_Player_Sprint;
+<<<<<<< HEAD
         public InputAction @Interact => m_Wrapper.m_Player_Interact;
+=======
+>>>>>>> eef9c3b7cf32bc38037a4e83142bf31a797cf0f0
         public InputActionMap Get() { return m_Wrapper.m_Player; }
         public void Enable() { Get().Enable(); }
         public void Disable() { Get().Disable(); }
@@ -273,9 +288,12 @@ public partial class @PlayerControls: IInputActionCollection2, IDisposable
             @Sprint.started += instance.OnSprint;
             @Sprint.performed += instance.OnSprint;
             @Sprint.canceled += instance.OnSprint;
+<<<<<<< HEAD
             @Interact.started += instance.OnInteract;
             @Interact.performed += instance.OnInteract;
             @Interact.canceled += instance.OnInteract;
+=======
+>>>>>>> eef9c3b7cf32bc38037a4e83142bf31a797cf0f0
         }
 
         private void UnregisterCallbacks(IPlayerActions instance)
@@ -286,9 +304,12 @@ public partial class @PlayerControls: IInputActionCollection2, IDisposable
             @Sprint.started -= instance.OnSprint;
             @Sprint.performed -= instance.OnSprint;
             @Sprint.canceled -= instance.OnSprint;
+<<<<<<< HEAD
             @Interact.started -= instance.OnInteract;
             @Interact.performed -= instance.OnInteract;
             @Interact.canceled -= instance.OnInteract;
+=======
+>>>>>>> eef9c3b7cf32bc38037a4e83142bf31a797cf0f0
         }
 
         public void RemoveCallbacks(IPlayerActions instance)
@@ -310,6 +331,9 @@ public partial class @PlayerControls: IInputActionCollection2, IDisposable
     {
         void OnMove(InputAction.CallbackContext context);
         void OnSprint(InputAction.CallbackContext context);
+<<<<<<< HEAD
         void OnInteract(InputAction.CallbackContext context);
+=======
+>>>>>>> eef9c3b7cf32bc38037a4e83142bf31a797cf0f0
     }
 }

@@ -22,6 +22,7 @@
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
+<<<<<<< HEAD
                 },
                 {
                     "name": "Interact",
@@ -31,6 +32,8 @@
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
+=======
+>>>>>>> eef9c3b7cf32bc38037a4e83142bf31a797cf0f0
                 }
             ],
             "bindings": [
@@ -143,6 +146,7 @@
                     "action": "Sprint",
                     "isComposite": false,
                     "isPartOfComposite": false
+<<<<<<< HEAD
                 },
                 {
                     "name": "",
@@ -154,6 +158,8 @@
                     "action": "Interact",
                     "isComposite": false,
                     "isPartOfComposite": false
+=======
+>>>>>>> eef9c3b7cf32bc38037a4e83142bf31a797cf0f0
                 }
             ]
         }
