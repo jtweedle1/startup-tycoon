@@ -1,0 +1,5011 @@
+fileFormatVersion: 2
+guid: 7d203680ff3829f4f8aeaf95359c37f9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 788
+        width: 16
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ca65f7d62f34a49864afae1eab953a
+      internalID: 2036204563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 800
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5682a1b6e5a86a458475aacced679dd
+      internalID: 1584535799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 788
+        width: 16
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a791bcdf772cd46b59dfc020b9d07d
+      internalID: 1412403745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 800
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2710b6b8c8a944385df05f7870f063
+      internalID: -343534197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 788
+        width: 16
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f48d0336784964f9a7585e006e408d
+      internalID: 288253067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_5
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 800
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb0932a76f20464a9d67849fdcd096d
+      internalID: 683398232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 788
+        width: 16
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d4df18ec23a8a4ba470fadd7f8dcdf
+      internalID: 410338729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_7
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 823
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3a9774330738742b64563583d1a8e0
+      internalID: -1321538312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_8
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 791
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a91b8804514f047bcffe806e181116
+      internalID: 1311946786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 724
+        width: 16
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953d89ab1d0e2ad41bdf9a41f1991f4d
+      internalID: 1932919918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 736
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8dd7df75df8eb4bb830c839009bb15
+      internalID: 1924067591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 724
+        width: 16
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d39935f39368d46af134ed2701368f
+      internalID: 1513000915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_12
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 736
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a811fc8d62e92bd48970e11af6f92697
+      internalID: 1003311027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_13
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 724
+        width: 16
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a5f00876b24724abdf926ac527f6af
+      internalID: -2089332564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 698
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abbd861b12d5b844af484ab03ab7580
+      internalID: 544166596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_15
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 717
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4434d4b88ca4add4fb5733e1067d2ce9
+      internalID: -372402057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_16
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 717
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3237f4e5a4de08248b38e7512562d2c8
+      internalID: 555044239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_17
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 704
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aabff26b1f90ab846b63f053e850a331
+      internalID: -1135528189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 690
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cbdcdc580bc4f42a3e0a3adfcd2bc0
+      internalID: -658357433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_19
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 692
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5640576f4cf767c40b1794bb7fb211c6
+      internalID: 758938538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_20
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 692
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3985811da45a4684498335d1ac6e7ac7
+      internalID: 346363747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_21
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 694
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000ddee165ae6574a945f9045c0b99cc
+      internalID: -923826639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_22
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 695
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fc4dd482e022e47a8e12b5860f48e8
+      internalID: -574843130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 706
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c745c9cfb462f4b8461cdfd5d231e9
+      internalID: 1316895853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_24
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 691
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c990af471ac9e142a67a62d4fac528f
+      internalID: 68271608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_25
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 699
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97120da4c10aa724387419f52d669b58
+      internalID: -16396804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_26
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 688
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b0d398a4a3a3c40a3af0309a8449ce
+      internalID: 727120962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_27
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 688
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f16b94dd629544898966bf44df4e01
+      internalID: 467947196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 658
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff47aed0997d0f448cb79f9e81bd898
+      internalID: -1284823115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_29
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 660
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432990142583e1d4e836ed45a7b82035
+      internalID: 2138690378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_30
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 660
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556083ff01c4e6443905f19fd3a56a2b
+      internalID: -559552901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_31
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 666
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0d759be570e084db621386e332460a
+      internalID: 1586486842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_32
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 662
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92cfe1199d172f542820463a2fade9fe
+      internalID: 1104848948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_33
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 662
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62256261691faa34693a9c82bf55710f
+      internalID: 669413837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_34
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 658
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2137ae0dd1a4a1841bb813253b53eddb
+      internalID: -346588735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 674
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7ee1ed0af9b334ebc4750cdc984fbd
+      internalID: -408442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_36
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 672
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d569d0222a9fac54d9a05bc2fa2f783b
+      internalID: 1825717109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_37
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 659
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd09ace26866b04cb56ef86afa164e0
+      internalID: -28210519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_38
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 665
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d69b91b9b0b8644910ab985f70b643
+      internalID: -1904407565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_39
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 656
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1defb5f5579376a47b9ccdfb82d0e978
+      internalID: 2038080859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_40
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 640
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca3c7c4976bde4478d1213c20f06aa3
+      internalID: -1963036588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_41
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 629
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c52340621b5ffa49a0735b189994803
+      internalID: -1580044775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_42
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 636
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a59e1a61339699409716787de4124a4
+      internalID: -533519975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_43
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 640
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29659bd4b5d5b24e9163bf9d115f5aa
+      internalID: 1188366109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_44
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 640
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2155925990b71cc4c820f77ac65d8cf5
+      internalID: -19883549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_45
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 640
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cdce22eecef83542a7e91461823a7b8
+      internalID: 1220174365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_46
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 618
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb624b0f076b0e43913a3d246e6edf1
+      internalID: 28757770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_47
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 618
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5540dd7a6fd1f4aaa4578430af12b7
+      internalID: -1079638256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_48
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 626
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd114e7620561542a07415caaea765c
+      internalID: -1205055228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_49
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 608
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b62c3b88f8e5de44909192b67677c6a
+      internalID: 131758896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_50
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 640
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4294ea400e892654a90d83fb02b8918f
+      internalID: -88342778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_51
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 640
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ee08f2e8838d542abd76e4f6f2e707
+      internalID: -1669971635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_52
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 624
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1376725176ddb15428100204bb57a7d9
+      internalID: -641208917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_53
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 624
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb1f493e6233fa4ca8694f71d077aeb
+      internalID: -498168582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_54
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 624
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80169e2107be8d34f96383e2a09fdbbd
+      internalID: -221176079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_55
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 618
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f9eb0ec10b37b40a8d53b01e27f613
+      internalID: -1821120148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_56
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 624
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eaebec495cfa3d4db18f3f641b03859
+      internalID: 109876817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_57
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 624
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de54425997c30bb46b07068e0eeeb7e1
+      internalID: 2092335406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_58
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 624
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49125729b03a39d479c28b7acfd6f1f9
+      internalID: -1215042120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_59
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 608
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6c2052681923a469307f2da92230aa
+      internalID: -157308287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_60
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 594
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96328e519f8b1d64795cee8fde206cf9
+      internalID: 413720514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_61
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 616
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a46d9c853a6544d8509ccef9c80510
+      internalID: -1119345432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_62
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 616
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d758c3d3ed3d23478bae0c4b68462bb
+      internalID: 901870829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 594
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9506e24f562fe2b4ebb28af208fadb36
+      internalID: 681370438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_64
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 570
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51527d68d142ee94683ac6dc4b121ed6
+      internalID: 1880920678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_65
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 574
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601468aef9d2a7d41848e33559a9690d
+      internalID: 860706425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_66
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 590
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9505635adad6d3478ec08c1be990859
+      internalID: 831887019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_67
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 570
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0b1d2c0748ac14199536f386ab641a
+      internalID: 1276349379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_68
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 584
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faca2ba0427a62e479418a9932d15272
+      internalID: -1416781249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_69
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 584
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ddf9d30b2bb6947b5f28c3fca2e439
+      internalID: 1810291980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_70
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 584
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b149651a14eb8844b48fd200458b5c4
+      internalID: -456658134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_71
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 548
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8023aceca6544489fe9aa1f62e51c5
+      internalID: 521989809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_72
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 534
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c425b24e04d8f9a4e89fb8d50b0e2bbe
+      internalID: 296595786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_73
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 539
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669770e516e8f844da6579318abd4c1b
+      internalID: -2130992130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_74
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 539
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e1960642515ee4db64392425b2dcf1
+      internalID: 252450800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_75
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 558
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7c49b26f727454c940932e70873b03
+      internalID: -229295417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_76
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 552
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e28ab963deceb439a33b1db84f0310
+      internalID: 1441206595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_77
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 552
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd4788b6b7d8274dbcde70eaa671eec
+      internalID: -2105030746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_78
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 552
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0d8fcf3deb79f419cb0649442fd0da
+      internalID: 1066507488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 516
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689f3b5802ecc2b4fb69247807f44ab4
+      internalID: 2102835301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_80
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 530
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed03efd7db519944b87afd2b2082dac
+      internalID: 54138237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_81
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 526
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7bc0816aca75b4a9ea1b2129428d3b
+      internalID: 1641533616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_82
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 528
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47877886030ee443a66fa0f14ce45c9
+      internalID: -300219990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_83
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 528
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c36638e17d05e4e83abe1938496953
+      internalID: 910413378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 484
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2358fc53bb783604ca6e02ba95af51fa
+      internalID: 667685316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_85
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 486
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6deeaf4612ef1ee4e92043bdf737d104
+      internalID: 1166584054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_86
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 507
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45b13d64d9a4ba4882e81f839e6ad97
+      internalID: 507714836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_87
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 507
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723dc1b7cc2e7de40af38b8a81cc839c
+      internalID: -173634313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_88
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 498
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a374894ea6d0ce24e8aeca298ab2793d
+      internalID: 1601220118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_89
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 494
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3662e9e74c305c64cb99628e762ea22a
+      internalID: -68172424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_90
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 501
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed082a561d73af46a0364765c38d835
+      internalID: -849767509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_91
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 500
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bb8f5ec1e2bc44183166480bc38975
+      internalID: -1835868540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_92
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 475
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d955dd7b49f8734882780fda5917fa4
+      internalID: -726053048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_93
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 475
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d73f1508da6e844890a857264ae7a1c
+      internalID: -607145108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_94
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 477
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a246d05ce9cac74f8f7c028c0a96f66
+      internalID: -1219739333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_95
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 478
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a420eeff4d09748bb0296f9f378c1b
+      internalID: -40555056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_96
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 476
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58361d5276b92194ebf5045e8877508a
+      internalID: 1716938904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_97
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 462
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919a302d904c89240844180c682355c4
+      internalID: -2043873622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_98
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 453
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e7137621468584c86c83f7b8ef2221
+      internalID: 472000671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_99
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 468
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e558bff4be36641b75ffaa18892bc4
+      internalID: -14279562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_100
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 441
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a33b8fd3f857c4cb04374b9204ac55
+      internalID: 1665389591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_101
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 441
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d0bde0751431640bddb432191012d2
+      internalID: -1136587370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_102
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 441
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974b30b3c9a38544b969cecf9dd82386
+      internalID: -201350849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_103
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 445
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea6c0a9ab96ab74c80d0c847ad14f48
+      internalID: -469798615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_104
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 446
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40498a9be441f24387967978d1c5c67
+      internalID: 673893143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_105
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 444
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbf75e794656ed4db5e646bd5e5380f
+      internalID: -893127461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_106
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 384
+        width: 99
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a5245f4611ffd4986ebe08f5cf5ffb
+      internalID: 307789765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_107
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 410
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427efaf28daa1bd48a82171cb6f02711
+      internalID: 1394673103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_108
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 405
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e256089d6caacc4b87f4e58db685877
+      internalID: 1955111602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_109
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 407
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c7d7d76d74dc04e975c5592670cf8c
+      internalID: -1821502716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_110
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 407
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951ed1e717dd8554cb2d89594cfe5c42
+      internalID: -1921381188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_111
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 411
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813673b546c1bd54f8a359724d2d2027
+      internalID: -469469037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_112
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 406
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3476cb85100f821429cd56a49f05dda1
+      internalID: 722556917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_113
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 368
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb768d3eac7b8ba488d68b5081be2b98
+      internalID: -639905711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_114
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 368
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e80d5b3309f8e42bdd589e7a9bb47e
+      internalID: 918216420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_115
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 376
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393709e2228a32142b519726167db252
+      internalID: 1921440358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_116
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 375
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090828139ef348a45b562ac1ec300764
+      internalID: -1450911522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_117
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 336
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5c1f0bf5cd27b439069e794f8e682f
+      internalID: 1181791918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_118
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 336
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6224d99b81b6d6a43a66edc34bf759b3
+      internalID: 1812237069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_119
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 336
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfe5289d58fd12488569e541e51d235
+      internalID: -692854744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_120
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 344
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0087cbe1b74528342bfbeea5911a4285
+      internalID: -943074256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_121
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 352
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c1473365b9b9547858f006910f2401
+      internalID: 1877294391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_122
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 352
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c412b1cdff9eba04ea0f77632648bd75
+      internalID: 14114359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_123
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 336
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb06c3cb3d7475469aa8a848f1a54a9
+      internalID: 891499005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_124
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 336
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2dfff5096b0fd4e8753b1516200511
+      internalID: -1222393827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_125
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 336
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e06bb87c07baa4499cc48cea049164
+      internalID: 1802182729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_126
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 312
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7adae8641e31747a70f5ea49a8e72d
+      internalID: -1745638304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_127
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 320
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0aa7be89bf854459e1cc59bf4d2259
+      internalID: -1198329370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_128
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 320
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f2cdaeb24cf9740893c3dd7cdce271
+      internalID: -2115376759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_129
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 320
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5fa9433f856f5408704e7c461b616e
+      internalID: 1003832280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_131
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 276
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb8e93d1f987b644b5d10e9b3252216
+      internalID: 1075512151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_132
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 279
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa9cb579793dbd4cbb823cdc15c63b6
+      internalID: -970979434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_133
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 289
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5352dda4a250994ba7db039e5c3d233
+      internalID: 872821305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_134
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 252
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75b402872e5ef544b15b3fbb10a6457
+      internalID: 246004651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_135
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 272
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14de0183e73c734c90e8d72ddc2a3a3
+      internalID: -108812959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_136
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 279
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b9e92aa105754469c88d73d501ca16
+      internalID: 1875622767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_137
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 274
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f540ecc3e8ae82c4c889e010c6b8fef3
+      internalID: 1157441117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_139
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 258
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e212dcbb917034f8d8b0e806c30d04
+      internalID: -1195328562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_140
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 256
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cab57fd5dad68d46b1de141e1486e2e
+      internalID: 1891486821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_141
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 247
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d4fb2960211c349a2849d73e91734e
+      internalID: 1504122899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_142
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 246
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b59bd5a9550e5a48a3766b10d0d9b57
+      internalID: -1189090615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_143
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 201
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4253f4a994c254d8cb6ac7cd2fe4e6
+      internalID: -665721181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_144
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 201
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce32ba322792b1b43adc05e8cf9d33a1
+      internalID: -849983763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_145
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 201
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4175da453e914f4eb1533b34b98befb
+      internalID: 1422583089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_146
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 208
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59eaa5d3c77acf41914f57a3c0548c9
+      internalID: -1622274605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_147
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 160
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e74f2ac2ab67eb49b59e42526abbf64
+      internalID: 558670510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_148
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 160
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81cb0062b7b18b48ad7d424acf24c81
+      internalID: -1925254478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_149
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 160
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309ecbc311d8266489d7b5bb2548646d
+      internalID: -1515828164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_150
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 176
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e033839c68472448f9f8e521f1cd26
+      internalID: -585410112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_151
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 133
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6418edcd8138c2459a7e2c951b13fb4
+      internalID: -1539168341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_152
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 133
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0568581d882b04ca6e4768a5132cf1
+      internalID: -203606305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_153
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 144
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383164facaf74af409b99fd9760e088c
+      internalID: 1980923764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_154
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7141938e8c2ebec4e99851428bd895da
+      internalID: 545099901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_155
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 108
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3937536ebbe1d4db4c7b2dc5eeef5d
+      internalID: 780720941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_156
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 103
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77c1e18b1c99774dab25b34b42aa29b
+      internalID: 1092354479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_157
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 114
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416ae68057d13b149aa1a25deb8e342b
+      internalID: 199945786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_158
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 102
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b72f38af9356b943a434513f27ef2ee
+      internalID: -1698509927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_159
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 104
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3eb44d8647360a47b31ef93a473bf80
+      internalID: -1425725251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_160
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 71
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc29d423566d914aa6c968e511eba89
+      internalID: 1640954100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_161
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 71
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00fd0c9f34b6a243967ef2d8c6ef7ce
+      internalID: 50952550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_162
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 71
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355c87d38a33c6f46963e374a8bf4d73
+      internalID: 1984827851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_163
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 70
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01e4cfc926cdf14faa261c647175209
+      internalID: -460429070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_164
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a626d2d48a92144b0d6e65ad803cdc
+      internalID: 808863346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_165
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 39
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b0d81f3276d534aa26de5a92a77269
+      internalID: 1593903209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_166
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 39
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79a2881d3955754294a06ac74c9b871
+      internalID: 794629385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_167
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 39
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbe23e03842e664bae1d8162cbc21c5
+      internalID: 1347101221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_168
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 32
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5400f247b6b6844883151fb7d6d3c7b
+      internalID: 1472084695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_169
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 788
+        width: 16
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d6dd4ecf12c4c489a1fc7643f1d81a
+      internalID: -306810085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_170
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 788
+        width: 16
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0136dae59e268af4bb4efc14552602c9
+      internalID: 384191251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_171
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 724
+        width: 16
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361f68209c367c742bca2bd6c812aaa4
+      internalID: 1451035640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_172
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 690
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd04922c00e4d84c86e78c981c1be62
+      internalID: -712287972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_173
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 690
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03f03cf265bfc94da48d91565ede5c3
+      internalID: 795079170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_174
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 690
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d5460a4e1c45147bbc34fd9aba1c1d
+      internalID: -1181147179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_175
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 658
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7552cddd3390c4c84892f40df82aaf
+      internalID: 1544535323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_176
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 658
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1bfb0d81348a34db343733c2270d30
+      internalID: 202091783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_177
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 658
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071e8411f7a78944ea1a327b5af4a384
+      internalID: 38093804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_178
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 592
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617ada8c7ba6ea04d9027a817002fda5
+      internalID: 1414033391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_179
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 592
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b93ce8f08007844797af950e8ee8d2c
+      internalID: -1736825364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_180
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 584
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4154b37ec8bce4a840e3ac09c49b28
+      internalID: 205543418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_181
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 584
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a329cc5f8e91e42a8a52ea86d34ddf
+      internalID: -1897490504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_182
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 584
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d463046cf75e0a4daaba71c6cabd8c1
+      internalID: -1146037678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_183
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 584
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf6bd495354a6b4793361657d56fb5b
+      internalID: -1553325410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_184
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 108
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02c9ee843962a5418cdcd4fc1ca00cf
+      internalID: 77443834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_130
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 276
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da35209991274724bb93160dfa2c9b29
+      internalID: 945228672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_185
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 248
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5d210236aa7dc4aa0bd9bb36a217e0
+      internalID: 1642598991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_186
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 39
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1c36645588be449bf2101d04921e7b
+      internalID: 2029249676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_187
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 103
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2c6db293f9be34fad7bccaf00bb571
+      internalID: -156735430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_188
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03cb32671248674fb397bbb86f7db7c
+      internalID: 331219287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_189
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 141
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8640bb7e01973f42950239a68b66a7a
+      internalID: -398073835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_190
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5194eeccd11ef459ae1575507b039f
+      internalID: 1990946108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_191
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4356aa257ccb8bb4da8d566b95253e51
+      internalID: -1954938501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_192
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 141
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae266d8a9a3de143bacf9579734439d
+      internalID: 2129822437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_193
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184393510af768c4a98ff1d81e2bc959
+      internalID: -637422378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_194
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c09ef498038fec45bc652e0dae3e6a1
+      internalID: 1347814673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_195
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 189
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48806c85cdf401e4983d5f30bdb2fde0
+      internalID: 1464527254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_196
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 92
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912b232dc75d446488a10748b387f35f
+      internalID: 397898290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_197
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 285
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13d14a78faa3c744b1b8efd18a93138
+      internalID: -621392655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_198
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 285
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c367c53f065ad419850602f3dc4d0a
+      internalID: 1928412793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_199
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 256
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba76c91a89614b4a9956a89dfef93f2
+      internalID: -85669997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_200
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396a305dfe2d2d04ca250a627603ce82
+      internalID: -1463985181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_201
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fd2135a11567d4d9a7a7485faa4ef4
+      internalID: 419675544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_202
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 256
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e80138e90a2bc44bd1f3c0d2bb838e
+      internalID: -1327656872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_203
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 237
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a624beddce63ba4f95cf4113fc1240a
+      internalID: -1667321631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_204
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5acdb0672bcfd349818c20dbad8d164
+      internalID: -861959006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_205
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 208
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e69710b0dd548439cb94a88162cf08
+      internalID: 274323470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_206
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 237
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94119677bf4d1a544a9d8ac4759a95af
+      internalID: 1063404797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_207
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5408d953b639f4fbbffb3fa9d6e73c
+      internalID: 465844138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_208
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 208
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c646e318a3ee68479d98dba9c07a7d8
+      internalID: -1496071351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_209
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5564726f3f0a7a6469ddd1aa06f4b656
+      internalID: 971280220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7998ed33ead6f5d4aba74268b75d424b
+      internalID: -1396643260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_211
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d0164edf0514e40ae1ca1506d6e90b
+      internalID: -1265174577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_212
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40360e9fe179704980bcdcd6175892d
+      internalID: -208000938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_213
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 93
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83cf682ced7868f4290b122094a13196
+      internalID: 52755813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_214
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db2104658cfaa84ebc11f9d3b927ea4
+      internalID: -1118700316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_215
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c744f1d4ace1a4d9ce20d59df61fcb
+      internalID: -471890543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_216
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7ff1f743dda294f8ab842f93d28239
+      internalID: 1528413211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_217
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bac10a1732e4d4e9ef006e85689fa7
+      internalID: 392149501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_218
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 45
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af699ec0a03ed1f4ab73913836e876cb
+      internalID: 1551274009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_138
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 688
+        width: 7
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6460ed008099196469280754d58b4e20
+      internalID: 1412214743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_219
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 707
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54d1059b0487dd4eabf74b632538dad
+      internalID: 1976774200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_220
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 675
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f7ff36011259646b9a9cb8b5e2c639
+      internalID: 622209547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_Black_Shadow_221
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 656
+        width: 7
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509accb3941c0704bbec11a0b0e008cb
+      internalID: 1073450940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Modern_Office_Black_Shadow_0: 2036204563
+      Modern_Office_Black_Shadow_1: 1584535799
+      Modern_Office_Black_Shadow_10: 1924067591
+      Modern_Office_Black_Shadow_100: 1665389591
+      Modern_Office_Black_Shadow_101: -1136587370
+      Modern_Office_Black_Shadow_102: -201350849
+      Modern_Office_Black_Shadow_103: -469798615
+      Modern_Office_Black_Shadow_104: 673893143
+      Modern_Office_Black_Shadow_105: -893127461
+      Modern_Office_Black_Shadow_106: 307789765
+      Modern_Office_Black_Shadow_107: 1394673103
+      Modern_Office_Black_Shadow_108: 1955111602
+      Modern_Office_Black_Shadow_109: -1821502716
+      Modern_Office_Black_Shadow_11: 1513000915
+      Modern_Office_Black_Shadow_110: -1921381188
+      Modern_Office_Black_Shadow_111: -469469037
+      Modern_Office_Black_Shadow_112: 722556917
+      Modern_Office_Black_Shadow_113: -639905711
+      Modern_Office_Black_Shadow_114: 918216420
+      Modern_Office_Black_Shadow_115: 1921440358
+      Modern_Office_Black_Shadow_116: -1450911522
+      Modern_Office_Black_Shadow_117: 1181791918
+      Modern_Office_Black_Shadow_118: 1812237069
+      Modern_Office_Black_Shadow_119: -692854744
+      Modern_Office_Black_Shadow_12: 1003311027
+      Modern_Office_Black_Shadow_120: -943074256
+      Modern_Office_Black_Shadow_121: 1877294391
+      Modern_Office_Black_Shadow_122: 14114359
+      Modern_Office_Black_Shadow_123: 891499005
+      Modern_Office_Black_Shadow_124: -1222393827
+      Modern_Office_Black_Shadow_125: 1802182729
+      Modern_Office_Black_Shadow_126: -1745638304
+      Modern_Office_Black_Shadow_127: -1198329370
+      Modern_Office_Black_Shadow_128: -2115376759
+      Modern_Office_Black_Shadow_129: 1003832280
+      Modern_Office_Black_Shadow_13: -2089332564
+      Modern_Office_Black_Shadow_130: 945228672
+      Modern_Office_Black_Shadow_131: 1075512151
+      Modern_Office_Black_Shadow_132: -970979434
+      Modern_Office_Black_Shadow_133: 872821305
+      Modern_Office_Black_Shadow_134: 246004651
+      Modern_Office_Black_Shadow_135: -108812959
+      Modern_Office_Black_Shadow_136: 1875622767
+      Modern_Office_Black_Shadow_137: 1157441117
+      Modern_Office_Black_Shadow_138: 1412214743
+      Modern_Office_Black_Shadow_139: -1195328562
+      Modern_Office_Black_Shadow_14: 544166596
+      Modern_Office_Black_Shadow_140: 1891486821
+      Modern_Office_Black_Shadow_141: 1504122899
+      Modern_Office_Black_Shadow_142: -1189090615
+      Modern_Office_Black_Shadow_143: -665721181
+      Modern_Office_Black_Shadow_144: -849983763
+      Modern_Office_Black_Shadow_145: 1422583089
+      Modern_Office_Black_Shadow_146: -1622274605
+      Modern_Office_Black_Shadow_147: 558670510
+      Modern_Office_Black_Shadow_148: -1925254478
+      Modern_Office_Black_Shadow_149: -1515828164
+      Modern_Office_Black_Shadow_15: -372402057
+      Modern_Office_Black_Shadow_150: -585410112
+      Modern_Office_Black_Shadow_151: -1539168341
+      Modern_Office_Black_Shadow_152: -203606305
+      Modern_Office_Black_Shadow_153: 1980923764
+      Modern_Office_Black_Shadow_154: 545099901
+      Modern_Office_Black_Shadow_155: 780720941
+      Modern_Office_Black_Shadow_156: 1092354479
+      Modern_Office_Black_Shadow_157: 199945786
+      Modern_Office_Black_Shadow_158: -1698509927
+      Modern_Office_Black_Shadow_159: -1425725251
+      Modern_Office_Black_Shadow_16: 555044239
+      Modern_Office_Black_Shadow_160: 1640954100
+      Modern_Office_Black_Shadow_161: 50952550
+      Modern_Office_Black_Shadow_162: 1984827851
+      Modern_Office_Black_Shadow_163: -460429070
+      Modern_Office_Black_Shadow_164: 808863346
+      Modern_Office_Black_Shadow_165: 1593903209
+      Modern_Office_Black_Shadow_166: 794629385
+      Modern_Office_Black_Shadow_167: 1347101221
+      Modern_Office_Black_Shadow_168: 1472084695
+      Modern_Office_Black_Shadow_169: -306810085
+      Modern_Office_Black_Shadow_17: -1135528189
+      Modern_Office_Black_Shadow_170: 384191251
+      Modern_Office_Black_Shadow_171: 1451035640
+      Modern_Office_Black_Shadow_172: -712287972
+      Modern_Office_Black_Shadow_173: 795079170
+      Modern_Office_Black_Shadow_174: -1181147179
+      Modern_Office_Black_Shadow_175: 1544535323
+      Modern_Office_Black_Shadow_176: 202091783
+      Modern_Office_Black_Shadow_177: 38093804
+      Modern_Office_Black_Shadow_178: 1414033391
+      Modern_Office_Black_Shadow_179: -1736825364
+      Modern_Office_Black_Shadow_18: -658357433
+      Modern_Office_Black_Shadow_180: 205543418
+      Modern_Office_Black_Shadow_181: -1897490504
+      Modern_Office_Black_Shadow_182: -1146037678
+      Modern_Office_Black_Shadow_183: -1553325410
+      Modern_Office_Black_Shadow_184: 77443834
+      Modern_Office_Black_Shadow_185: 1642598991
+      Modern_Office_Black_Shadow_186: 2029249676
+      Modern_Office_Black_Shadow_187: -156735430
+      Modern_Office_Black_Shadow_188: 331219287
+      Modern_Office_Black_Shadow_189: -398073835
+      Modern_Office_Black_Shadow_19: 758938538
+      Modern_Office_Black_Shadow_190: 1990946108
+      Modern_Office_Black_Shadow_191: -1954938501
+      Modern_Office_Black_Shadow_192: 2129822437
+      Modern_Office_Black_Shadow_193: -637422378
+      Modern_Office_Black_Shadow_194: 1347814673
+      Modern_Office_Black_Shadow_195: 1464527254
+      Modern_Office_Black_Shadow_196: 397898290
+      Modern_Office_Black_Shadow_197: -621392655
+      Modern_Office_Black_Shadow_198: 1928412793
+      Modern_Office_Black_Shadow_199: -85669997
+      Modern_Office_Black_Shadow_2: 1412403745
+      Modern_Office_Black_Shadow_20: 346363747
+      Modern_Office_Black_Shadow_200: -1463985181
+      Modern_Office_Black_Shadow_201: 419675544
+      Modern_Office_Black_Shadow_202: -1327656872
+      Modern_Office_Black_Shadow_203: -1667321631
+      Modern_Office_Black_Shadow_204: -861959006
+      Modern_Office_Black_Shadow_205: 274323470
+      Modern_Office_Black_Shadow_206: 1063404797
+      Modern_Office_Black_Shadow_207: 465844138
+      Modern_Office_Black_Shadow_208: -1496071351
+      Modern_Office_Black_Shadow_209: 971280220
+      Modern_Office_Black_Shadow_21: -923826639
+      Modern_Office_Black_Shadow_210: -1396643260
+      Modern_Office_Black_Shadow_211: -1265174577
+      Modern_Office_Black_Shadow_212: -208000938
+      Modern_Office_Black_Shadow_213: 52755813
+      Modern_Office_Black_Shadow_214: -1118700316
+      Modern_Office_Black_Shadow_215: -471890543
+      Modern_Office_Black_Shadow_216: 1528413211
+      Modern_Office_Black_Shadow_217: 392149501
+      Modern_Office_Black_Shadow_218: 1551274009
+      Modern_Office_Black_Shadow_219: 1976774200
+      Modern_Office_Black_Shadow_22: -574843130
+      Modern_Office_Black_Shadow_220: 622209547
+      Modern_Office_Black_Shadow_221: 1073450940
+      Modern_Office_Black_Shadow_23: 1316895853
+      Modern_Office_Black_Shadow_24: 68271608
+      Modern_Office_Black_Shadow_25: -16396804
+      Modern_Office_Black_Shadow_26: 727120962
+      Modern_Office_Black_Shadow_27: 467947196
+      Modern_Office_Black_Shadow_28: -1284823115
+      Modern_Office_Black_Shadow_29: 2138690378
+      Modern_Office_Black_Shadow_3: -343534197
+      Modern_Office_Black_Shadow_30: -559552901
+      Modern_Office_Black_Shadow_31: 1586486842
+      Modern_Office_Black_Shadow_32: 1104848948
+      Modern_Office_Black_Shadow_33: 669413837
+      Modern_Office_Black_Shadow_34: -346588735
+      Modern_Office_Black_Shadow_35: -408442
+      Modern_Office_Black_Shadow_36: 1825717109
+      Modern_Office_Black_Shadow_37: -28210519
+      Modern_Office_Black_Shadow_38: -1904407565
+      Modern_Office_Black_Shadow_39: 2038080859
+      Modern_Office_Black_Shadow_4: 288253067
+      Modern_Office_Black_Shadow_40: -1963036588
+      Modern_Office_Black_Shadow_41: -1580044775
+      Modern_Office_Black_Shadow_42: -533519975
+      Modern_Office_Black_Shadow_43: 1188366109
+      Modern_Office_Black_Shadow_44: -19883549
+      Modern_Office_Black_Shadow_45: 1220174365
+      Modern_Office_Black_Shadow_46: 28757770
+      Modern_Office_Black_Shadow_47: -1079638256
+      Modern_Office_Black_Shadow_48: -1205055228
+      Modern_Office_Black_Shadow_49: 131758896
+      Modern_Office_Black_Shadow_5: 683398232
+      Modern_Office_Black_Shadow_50: -88342778
+      Modern_Office_Black_Shadow_51: -1669971635
+      Modern_Office_Black_Shadow_52: -641208917
+      Modern_Office_Black_Shadow_53: -498168582
+      Modern_Office_Black_Shadow_54: -221176079
+      Modern_Office_Black_Shadow_55: -1821120148
+      Modern_Office_Black_Shadow_56: 109876817
+      Modern_Office_Black_Shadow_57: 2092335406
+      Modern_Office_Black_Shadow_58: -1215042120
+      Modern_Office_Black_Shadow_59: -157308287
+      Modern_Office_Black_Shadow_6: 410338729
+      Modern_Office_Black_Shadow_60: 413720514
+      Modern_Office_Black_Shadow_61: -1119345432
+      Modern_Office_Black_Shadow_62: 901870829
+      Modern_Office_Black_Shadow_63: 681370438
+      Modern_Office_Black_Shadow_64: 1880920678
+      Modern_Office_Black_Shadow_65: 860706425
+      Modern_Office_Black_Shadow_66: 831887019
+      Modern_Office_Black_Shadow_67: 1276349379
+      Modern_Office_Black_Shadow_68: -1416781249
+      Modern_Office_Black_Shadow_69: 1810291980
+      Modern_Office_Black_Shadow_7: -1321538312
+      Modern_Office_Black_Shadow_70: -456658134
+      Modern_Office_Black_Shadow_71: 521989809
+      Modern_Office_Black_Shadow_72: 296595786
+      Modern_Office_Black_Shadow_73: -2130992130
+      Modern_Office_Black_Shadow_74: 252450800
+      Modern_Office_Black_Shadow_75: -229295417
+      Modern_Office_Black_Shadow_76: 1441206595
+      Modern_Office_Black_Shadow_77: -2105030746
+      Modern_Office_Black_Shadow_78: 1066507488
+      Modern_Office_Black_Shadow_79: 2102835301
+      Modern_Office_Black_Shadow_8: 1311946786
+      Modern_Office_Black_Shadow_80: 54138237
+      Modern_Office_Black_Shadow_81: 1641533616
+      Modern_Office_Black_Shadow_82: -300219990
+      Modern_Office_Black_Shadow_83: 910413378
+      Modern_Office_Black_Shadow_84: 667685316
+      Modern_Office_Black_Shadow_85: 1166584054
+      Modern_Office_Black_Shadow_86: 507714836
+      Modern_Office_Black_Shadow_87: -173634313
+      Modern_Office_Black_Shadow_88: 1601220118
+      Modern_Office_Black_Shadow_89: -68172424
+      Modern_Office_Black_Shadow_9: 1932919918
+      Modern_Office_Black_Shadow_90: -849767509
+      Modern_Office_Black_Shadow_91: -1835868540
+      Modern_Office_Black_Shadow_92: -726053048
+      Modern_Office_Black_Shadow_93: -607145108
+      Modern_Office_Black_Shadow_94: -1219739333
+      Modern_Office_Black_Shadow_95: -40555056
+      Modern_Office_Black_Shadow_96: 1716938904
+      Modern_Office_Black_Shadow_97: -2043873622
+      Modern_Office_Black_Shadow_98: 472000671
+      Modern_Office_Black_Shadow_99: -14279562
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
